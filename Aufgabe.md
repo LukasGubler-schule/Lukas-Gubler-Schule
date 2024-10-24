@@ -14,3 +14,12 @@ Cloud-Dienste von externen Anbietern, gemeinsam von vielen Nutzern verwendet. Be
 Exklusive Cloud für ein Unternehmen, lokal oder extern gehostet, mehr Kontrolle.
  ### **Hybrid Cloud**: 
 Kombination aus Public und Private Cloud, für flexible Nutzung je nach Bedarf.
+
+## **Dateien Hochladen**
+```bash
+git add .
+
+git commit -m "message"
+
+git push -u origin main
+```
